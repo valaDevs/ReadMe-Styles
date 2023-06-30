@@ -111,15 +111,15 @@ console.log("Hello world!")
 
 # Note | یادداشت
 
-> **Note**
-> This is a note
+> **Note**<br>
+This is a note
 
 ***
 
 # Warning | هشدار
 
-> **Warning**
-> This is a warning
+> **Warning**<br>
+This is a warning
 
 ***
 
