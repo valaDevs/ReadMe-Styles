@@ -109,6 +109,20 @@ console.log("Hello world!")
 
 ***
 
+# Note | یادداشت
+
+> **Note**
+> This is a note
+
+***
+
+# Warning | هشدار
+
+> **Warning**
+> This is a warning
+
+***
+
 # Images | عکس ها (علامت تعحب و بعد از اون براکتس )
 
 ![Codes](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.edutopia.org%2Fstyles%2Fresponsive_2880px_16x9%2Fs3%2Fmasters%2Fd7_images%2Fslates%2Frushkoff-codecademy-literacy.jpg&imgrefurl=https%3A%2F%2Fwww.edutopia.org%2Fblog%2Fcode-literacy-21st-century-requirement-douglas-rushkoff&tbnid=R0kwgrwfJVLvhM&vet=12ahUKEwjB3aenkvDyAhVB-YUKHRh6BmEQMygFegUIARDdAQ..i&docid=lOMNMs2X7jG7dM&w=460&h=258&q=code&ved=2ahUKEwjB3aenkvDyAhVB-YUKHRh6BmEQMygFegUIARDdAQ)
